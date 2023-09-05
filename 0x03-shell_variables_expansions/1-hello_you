@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $(user $(pwd))"
+echo "hello $(user $(pwd)), where $(user $(pwd)) is the current linux directory"
